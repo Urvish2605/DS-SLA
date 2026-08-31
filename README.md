@@ -106,7 +106,3 @@ Neither design pattern is universally superior:
 Writing effective software is not about memorizing data structures in isolation. It is about understanding the mechanical costs of memory layout—balancing algorithmic efficiency with physical hardware behavior.
 
 ```
-
-<FollowUp label="Want a sample C implementation showing array vs linked list insertion benchmarks?" query="Provide a clear C code example benchmarking the real insertion performance differences between a dynamic array and a linked list."/>
-
-```
