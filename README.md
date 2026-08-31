@@ -105,4 +105,3 @@ Neither design pattern is universally superior:
 
 Writing effective software is not about memorizing data structures in isolation. It is about understanding the mechanical costs of memory layout—balancing algorithmic efficiency with physical hardware behavior.
 
-```
